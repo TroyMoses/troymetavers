@@ -1,2 +1,3 @@
-# troymetavers
-Explore animez
+# Troy Metavers
+
+Explore exciting animez
